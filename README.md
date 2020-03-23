@@ -4,8 +4,13 @@
 [![works on Windows](https://img.shields.io/badge/works%20on-Windows-blue.svg)](http://shields.io/#your-badge)
 
 <h2>Click here to Download--><a href="asdcasas.com">PyIDE.exe</a></h2>
+ //(file is'nt here the size of software is >30 MB)
+
+<img src="pic.png">
 
 <h4>A coding editor initially build for Python language #RUN #DOWNLOAD CODE #EDIT  in signal platform user friendly Software.</h4>
+
+<h4>The vision about to build this IDE is to calcualte the TIME COMPLEXITY , SPACE COMPLEXITY, SIZE OF FILE , TIME TAKEN by program/code. </h4>
 
 # BUGS
 
