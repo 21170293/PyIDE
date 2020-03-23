@@ -8,7 +8,7 @@
 
 <img src="pic.png">
 
-<h4>A coding editor initially build for Python language #RUN #DOWNLOAD CODE #EDIT  in signal platform user friendly Software.</h4>
+<h4>A coding editor initially build for Python language #RUN #DOWNLOAD CODE #EDIT  in single platform user friendly Software.</h4>
 
 <h4>The vision about to build this IDE is to calcualte the TIME COMPLEXITY , SPACE COMPLEXITY, SIZE OF FILE , TIME TAKEN by program/code. </h4>
 
