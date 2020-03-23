@@ -4,7 +4,7 @@
 [![works on Windows](https://img.shields.io/badge/works%20on-Windows-blue.svg)](http://shields.io/#your-badge)
 
 <h2>Click here to Download--><a href="https://drive.google.com/open?id=14vRy415sqWU1p2YfgBhsRTikBMedW0Z5">PyIDE.exe</a></h2>
- //(file is'nt here the size of software is >30 MB)
+
 
 <img src="pic.png">
 
